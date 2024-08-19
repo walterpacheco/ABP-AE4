@@ -1,0 +1,5 @@
+#resultados {
+    display: block;
+    visibility: visible;
+    color: yellow; /* Asegúrate de que el texto no sea del mismo color que el fondo */
+}
